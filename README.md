@@ -1,1 +1,1 @@
-# social--login
+# social-login
